@@ -1,3 +1,3 @@
 # Curso css, flexbox y cssgrid.
 
-Curso para poder diseñar bien el portafolio.
+Curso para poder diseñar bien el portfolio.
