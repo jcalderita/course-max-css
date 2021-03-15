@@ -1,3 +1,3 @@
-# Curso css, flexbox y cssgrid.
+#Course-max-css 
 
-Curso para poder diseñar bien el portfolio.
+Curso css, flexbox y cssgrid finalizado.
